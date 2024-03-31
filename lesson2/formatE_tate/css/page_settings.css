@@ -17,8 +17,8 @@
   --page-width: 148mm;
   --page-height: 210mm;
   --letters-per-line: 40;
-  --lines-per-page: 15;
-  --page-margin-top: 30mm; /*上下マージンは天のみ指定できる。地は自動計算*/
+  --lines-per-page: 20;
+  --page-margin-top: 22mm; /*上下マージンは天のみ指定できる。地は自動計算*/
   --page-margin-xshift: 0mm; /*左右マージンはデフォルト天地均等。xshift値でずらす*/
   --column-font-size: 12Q; /*コラムのフォントサイズ*/
   /* フォント指定 */

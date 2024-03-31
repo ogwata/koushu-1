@@ -90,10 +90,10 @@ h2::before {
   background-size: contain;
   background-repeat: no-repeat;
   block-size: 24mm;
-  inline-size: 24mm;
+  inline-size: 40mm;
   position: absolute;
-  inset-block-start: -4mm;
-  inset-inline-start: -20mm; 
+  inset-block-start: -2mm;
+  inset-inline-start: -17mm; 
 }
 
 /* 節番号 */
@@ -140,6 +140,7 @@ h3 {
 h3::before {
   content: "";
   background: url(img/_c_choju24_0001_s1024_choju24_0001_7.png);
+  /* background: url(img/ai_carrot.png); */
   background-size: contain;
   background-repeat: no-repeat;
   block-size: 2rlh;
