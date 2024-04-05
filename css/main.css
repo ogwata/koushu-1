@@ -322,13 +322,32 @@ figcaption {
   
 }
 
+/* 図版下揃え */
+.figure-bottom {
+  float-reference: page;
+  float: block-end;
+  margin-left: 1.5rem;
+  margin-top: 1.5rem;
+  margin-bottom: 0rem;
+  border: none;
+}
+
+figcaption {
+  text-align: start;
+  padding: 0.75lh;
+  font-size: 0.86rem;
+  font-family: var(--main-text-font);
+  line-height: 1lh;
+  font-feature-settings: "palt";
+  margin-block-start: 0.5em;
+}
 
 /* 脚注 */
 .notetext {
   float: footnote;
   font-family: var(--main-font-family);
   font-weight: 400;
-  font-feature-settings: normal;
+  font-feature-settings: "palt";
   font-size: 12Q;
   line-height: 18Q;
   text-indent: 0;
