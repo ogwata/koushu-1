@@ -64,7 +64,7 @@ lang: 'ja'
 
 <figure style="text-align: center;" class="figure-right">
   <img src="img/shioiri-styou.png" alt="改築落成記念絵葉書" width="260">
-  <figcaption>図3 汐入尋常小学校の建築写真（資料提供：久保木実氏）</figcaption>
+  <figcaption>図3 汐入尋常小学校の建築写真（提供：久保木実氏）</figcaption>
 </figure>
 
 横須賀市の田浦、汐入、上町など、関東大震災前後の町並みが残る地区に残るブラフ積は、まさにこの〈小口面を見せている石材を土中に噛みこませる積み方〉のものと考えられる。
