@@ -71,9 +71,10 @@
   margin-inline-start: calc(var(--page-inline-margin) + var(--page-margin-xshift));
   margin-inline-end: calc(var(--page-inline-margin) - var(--page-margin-xshift));
   /* ノンブル */
-  @bottom-left {
+  @bottom-center {
+    font-size: 14Q;
     content: counter(page);
-    text-align: start;
+    text-align: center;
   }
 }
 @page: right {
@@ -87,13 +88,14 @@
   margin-inline-start: calc(var(--page-inline-margin) - var(--page-margin-xshift));
   margin-inline-end: calc(var(--page-inline-margin) + var(--page-margin-xshift));
   /* ノンブル */
-  @bottom-right {
+  @bottom-center {
+    font-size: 14Q;
     content: counter(page);
-    text-align: end;
+    text-align: center;
   }
   /* 柱 */
   @bottom-center {
-    content: string(chapter-number, first) "　" string(chapter-title, first);
+    /* content: string(chapter-number, first) "　" string(chapter-title, first); */
   }
 }
 
