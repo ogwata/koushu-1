@@ -17,7 +17,7 @@ lang: 'ja'
 ▼
 
 <figure style="text-align: center;" class="figure-right">
-  <img src="img/sosekihou.png" alt="1枚積（手前）と1枚半積（奥）" width="260">
+  <img src="img/A_sosekihou.png" alt="1枚積（手前）と1枚半積（奥）" width="260">
   <figcaption>図1 レゴブロックによる1枚積（手前）と1枚半積（奥）の<br/>再現。表面の模様は同じことに注意。（筆者撮影）</figcaption>
 </figure>
 
@@ -50,7 +50,7 @@ lang: 'ja'
 写真からは長手面が横に、小口面が〈土中に噛みこませる〉よう縦に配置されていることが見て取れる。石材のサイズは高さ約30㎝、厚さ22〜24㎝、長さ約85㎝であり、横浜山手の石材とは、サイズはもちろん比率もよく似ていることが興味を引く。
 
 <figure style="text-align: center;" class="figure-right">
-  <img src="img/shinbashi-2.png" alt="『汐留遺跡　汐留遺跡埋蔵文化財発掘調査報告書（第3分冊）』" width="260">
+  <img src="img/A_shinbashi-2.png" alt="『汐留遺跡　汐留遺跡埋蔵文化財発掘調査報告書（第3分冊）』" width="260">
   <figcaption>図2 旧新橋駅プラットフォーム</figcaption>
 </figure>
 
@@ -63,7 +63,7 @@ lang: 'ja'
 これは横須賀市東逸見町3丁目の道路下に残っていた長さ約6.3メートルの石造水道管を発掘、解体後、同市三春町の「下町・トンボ王国」に移築、復原する中でおこなわれた研究だ。一連の調査の結果、想定復原図が作成されている（**図3**）。その側壁部をみると、紛れもなく〈石材を土中に噛みこませる〉系統のブラフ積であることが分かるだろう。
 
 <figure style="text-align: center;" class="figure-right">
-  <img src="img/higashihemi.png" alt="安池尋幸他「横須賀市東逸見町所在石造暗渠調査報告」（『横須賀市博物館研究報告』第44号、2000年、p.20" width="260">
+  <img src="img/A_higashihemi.png" alt="安池尋幸他「横須賀市東逸見町所在石造暗渠調査報告」（『横須賀市博物館研究報告』第44号、2000年、p.20" width="260">
   <figcaption>図3 横須賀市東逸見町所在石造暗渠の復原図</figcaption>
 </figure>
 
@@ -72,7 +72,7 @@ lang: 'ja'
 この研究が画期的な点は、広く文献を渉猟することで、堀の命名以前から〈フランス積み風の石積〉〈1番3番積〉〈1本控え〉など複数の呼称が存在したこと、また横浜市や横須賀市以外にも〈群馬県旧信越本線碓氷峠の明治期建造の鉄道トンネルや鹿児島県鹿児島市に類似の石積が確認でき、その分布はある程度広範囲であることが想起される〉と指摘していることだ<span class="notetext">前掲『横須賀市博物館研究報告』p.18</span>。さらに1928（昭和3）年の汐入尋常小学校（現在の汐入小学校）の工事風景を撮した写真を掲載し、〈石材を土中に噛みこませる〉工法の実際の姿を明らかにしている（**図4**）<span class="notetext">前掲『横須賀市博物館研究報告』p.18「改築落成記念絵葉書」（汐入尋常小学校、1928年12月9日）</span>。
 
 <figure style="text-align: center;" class="figure-right">
-  <img src="img/shioiri-styou.png" alt="改築落成記念絵葉書" width="260">
+  <img src="img/A_shioiri-styou.png" alt="改築落成記念絵葉書" width="260">
   <figcaption>図4 汐入尋常小学校の建築写真（提供：久保木実氏）</figcaption>
 </figure>
 
@@ -89,7 +89,7 @@ lang: 'ja'
 以上述べてきたブラフ積は、いずれも旧新橋駅プラットフォームにおける石材のサイズ、高さ約30㎝、厚さ22〜24㎝、長さ約85㎝に近似したもの、言い換えると表面に現れる高さ対長さの比率が概ね1対3のもので、かつ〈石材を土中に噛みこませる〉系統のものばかりだ。以下、これらのブラフ積を**「1対3のブラフ積」**と呼ぶ。
 
 <figure style="text-align: center;" class="figure-right">
-  <img src="img/chiyogasaki.png" alt="改築落成記念絵葉書" width="260">
+  <img src="img/A_chiyogasaki.png" alt="改築落成記念絵葉書" width="260">
   <figcaption>図5 千代ヶ崎砲台の擁壁遺構（筆者撮影）</figcaption>
 </figure>
 
