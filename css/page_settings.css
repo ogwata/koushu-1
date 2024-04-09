@@ -73,6 +73,7 @@
   /* ノンブル */
   @bottom-center {
     font-size: 14Q;
+    counter-reset: number 0;
     content: counter(page);
     text-align: center;
   }
@@ -91,6 +92,8 @@
   @bottom-center {
     font-size: 14Q;
     content: counter(page);
+    counter-reset: number 0;
+counter-increment: number 4;
     text-align: center;
   }
   /* 柱 */
@@ -109,6 +112,9 @@
   background-position: -3mm; */
 
   @bottom-center {
-    content: none;
+   
+   counter-reset: number 4;
+    /* content: none; */
+  
   }
 
